@@ -142,6 +142,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jVT5rIQzgiotCd13NGsIX4EBun" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -199,6 +200,7 @@
       <workItem from="1606469997064" duration="46000" />
       <workItem from="1606470045010" duration="31000" />
       <workItem from="1606470113362" duration="100000" />
+      <workItem from="1606470804144" duration="1990000" />
     </task>
     <servers />
   </component>
